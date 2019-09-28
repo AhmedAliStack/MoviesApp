@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MoviesTask</string>
+    <string name="change_language">Change Language</string>
+    <string name="favourites">Favourites</string>
+    <string name="popular">Popular</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="latest">Latest</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="cates">
+        <item>@string/popular</item>
+        <item>@string/upcoming</item>
+        <item>@string/now_playing</item>
+        <item>@string/top_rated</item>
+        <item>@string/latest</item>
+    </string-array>
+</resources>
